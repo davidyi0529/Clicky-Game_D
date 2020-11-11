@@ -61,19 +61,9 @@ class App extends Component {
   // Map over this.state.friends and render a FriendCard component for each friend object
   render() {
     return (
-      <Wrapper>
-        <Title>The Simpsons Memory Game_D
-
-        <div className="scoreSummary"> </div>
-
-        <div className="scoreSummary card-header">
-          Correct Guesses: {this.state.correctGuesses} 
-        <br />
-          Best Score: {this.state.bestScore} 
-        </div>
-
-        </Title>
-
+      <div>
+        <Title correctGuesses={this.state.correctGuesses} bestScore={this.state.bestScore} />
+        <Wrapper>
         <div className="container">
           <div className="row">
             {this.state.matches.map(match => (
@@ -85,8 +75,9 @@ class App extends Component {
                 />
               ))}
           </div>
-        </div>
-      </Wrapper>
+        </div> 
+      </Wrapper> 
+      </div>
     );
   }
 }
