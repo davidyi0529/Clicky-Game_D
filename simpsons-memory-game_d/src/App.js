@@ -2,14 +2,19 @@ import React, { Component } from "react";
 import FriendCard from "./components/FriendCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
-import friends from "./friends.json";
+import matches from "./matches.json";
+
+let correctGuesses = 0;
+let bestScore = 0;
 
 class App extends Component {
   // Setting this.state.friends to the friends json array
   state = {
-    friends: friends
+      matches,
+      correctGuesses,
+      bestScore
   };
-  
+
   // Map over this.state.friends and render a FriendCard component for each friend object
   render() {
     return (
@@ -19,16 +24,16 @@ class App extends Component {
         <div className="scoreSummary"> </div>
 
         <div className="scoreSummary card-header">
-          Correct Guesses: 
+          Correct Guesses: {this.state.correctGuesses} 
         <br />
-          Best Score:  
+          Best Score: {this.state.bestScore} 
         </div>
 
         </Title>
 
         <div className="container">
           <div className="row">
-            {this.state.friends.map(match => (
+            {this.state.matches.map(match => (
               <FriendCard
                 id={match.id}
                 key={match.id}
