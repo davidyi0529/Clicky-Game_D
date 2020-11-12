@@ -1,62 +1,62 @@
 [
   {
     "id": 1,
-    "image": "https://media1.giphy.com/media/9sSrddsom3yb6/200.webp?cid=ecf05e47c73e8466f46550f0bcd7fc1bfe1bf0c7288fd315&rid=200.webp",
+    "image": "https://github.com/davidyi0529/Simpsons-Memory-Game_D/blob/main/simpsons-memory-game_d/public/img/1.webp?raw=true",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "https://media4.giphy.com/media/26tPplGWjN0xLybiU/200.webp?cid=ecf05e472gzxelfhsjk1u1d3zch02bhwit3ckaaub2ph043h&rid=200.webp",
+    "image": "https://github.com/davidyi0529/Simpsons-Memory-Game_D/blob/main/simpsons-memory-game_d/public/img/2.webp?raw=true",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "https://media3.giphy.com/media/8fen5LSZcHQ5O/200.webp?cid=ecf05e472gzxelfhsjk1u1d3zch02bhwit3ckaaub2ph043h&rid=200.webp",
+    "image": "https://github.com/davidyi0529/Simpsons-Memory-Game_D/blob/main/simpsons-memory-game_d/public/img/3.webp?raw=true",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "https://media4.giphy.com/media/s6EYTqTRqujIY/200.webp?cid=ecf05e472gzxelfhsjk1u1d3zch02bhwit3ckaaub2ph043h&rid=200.webp",
+    "image": "https://github.com/davidyi0529/Simpsons-Memory-Game_D/blob/main/simpsons-memory-game_d/public/img/4.webp?raw=true",
     "clicked": false
   },
   {
     "id": 5,
-    "image": "https://media1.giphy.com/media/MaMBAXPQix88o/200w.webp?cid=ecf05e477bnz85v8ka7owkukgelj8i59gzophe2nxit2gut9&rid=200w.webp",
+    "image": "https://github.com/davidyi0529/Simpsons-Memory-Game_D/blob/main/simpsons-memory-game_d/public/img/5.webp?raw=true",
     "clicked": false
   },
   {
     "id": 6,
-    "image": "https://media3.giphy.com/media/lxNm0wXoz4RXi/200.webp?cid=ecf05e471fndjo3d3lxjtxjlxa0f1e5d2lc4r7p6a0gg98zo&rid=200.webp",
+    "image": "https://github.com/davidyi0529/Simpsons-Memory-Game_D/blob/main/simpsons-memory-game_d/public/img/6.webp?raw=true",
     "clicked": false
   },
   {
     "id": 7,
-    "image": "https://media2.giphy.com/media/7JbMfrLQJmxUc/200.webp?cid=ecf05e47c9s5mgbsoxm542x2rcgmv1g3x1tbazffvcs0tcm3&rid=200.webp",
+    "image": "https://github.com/davidyi0529/Simpsons-Memory-Game_D/blob/main/simpsons-memory-game_d/public/img/7.webp?raw=true",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "https://media0.giphy.com/media/tier2PRHqKzEQ/200w.webp?cid=ecf05e47za9ozuavva16va7qh64ywckebh39wlfh3z7fqkcq&rid=200w.webp",
+    "image": "https://github.com/davidyi0529/Simpsons-Memory-Game_D/blob/main/simpsons-memory-game_d/public/img/8.webp?raw=true",
     "clicked": false
   },
   {
     "id": 9,
-    "image": "https://media0.giphy.com/media/3DSBb5XntWIZG/200w.webp?cid=ecf05e478p94brqge9d0u2n6bqhzxc2d30wpjylfw3xigd39&rid=200w.webp",
+    "image": "https://github.com/davidyi0529/Simpsons-Memory-Game_D/blob/main/simpsons-memory-game_d/public/img/9.webp?raw=true",
     "clicked": false
   },
   {
     "id": 10,
-    "image": "https://media1.giphy.com/media/citBl9yPwnUOs/200.webp?cid=ecf05e472gzxelfhsjk1u1d3zch02bhwit3ckaaub2ph043h&rid=200.webp",
+    "image": "https://github.com/davidyi0529/Simpsons-Memory-Game_D/blob/main/simpsons-memory-game_d/public/img/10.webp?raw=true",
     "clicked": false
   },
   {
     "id": 11,
-    "image": "https://media3.giphy.com/media/phGElmSM4P0sg/200.webp?cid=ecf05e472gzxelfhsjk1u1d3zch02bhwit3ckaaub2ph043h&rid=200.webp",
+    "image": "https://github.com/davidyi0529/Simpsons-Memory-Game_D/blob/main/simpsons-memory-game_d/public/img/11.webp?raw=true",
     "clicked": false
   },
   {
     "id": 12,
-    "image": "https://media1.giphy.com/media/Y9zvpD9uHA1Tq/200w.webp?cid=ecf05e472gzxelfhsjk1u1d3zch02bhwit3ckaaub2ph043h&rid=200w.webp",
+    "image": "https://github.com/davidyi0529/Simpsons-Memory-Game_D/blob/main/simpsons-memory-game_d/public/img/12.webp?raw=true",
     "clicked": false
   }
 ]
