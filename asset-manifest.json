@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Simpsons-Memory-Game_D/static/css/main.2cf9c0f4.chunk.css",
+    "main.js": "/Simpsons-Memory-Game_D/static/js/main.70826ff5.chunk.js",
+    "main.js.map": "/Simpsons-Memory-Game_D/static/js/main.70826ff5.chunk.js.map",
+    "runtime-main.js": "/Simpsons-Memory-Game_D/static/js/runtime-main.9245e543.js",
+    "runtime-main.js.map": "/Simpsons-Memory-Game_D/static/js/runtime-main.9245e543.js.map",
+    "static/js/2.c4a75fc9.chunk.js": "/Simpsons-Memory-Game_D/static/js/2.c4a75fc9.chunk.js",
+    "static/js/2.c4a75fc9.chunk.js.map": "/Simpsons-Memory-Game_D/static/js/2.c4a75fc9.chunk.js.map",
+    "index.html": "/Simpsons-Memory-Game_D/index.html",
+    "static/css/main.2cf9c0f4.chunk.css.map": "/Simpsons-Memory-Game_D/static/css/main.2cf9c0f4.chunk.css.map",
+    "static/js/2.c4a75fc9.chunk.js.LICENSE.txt": "/Simpsons-Memory-Game_D/static/js/2.c4a75fc9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9245e543.js",
+    "static/js/2.c4a75fc9.chunk.js",
+    "static/css/main.2cf9c0f4.chunk.css",
+    "static/js/main.70826ff5.chunk.js"
+  ]
+}
